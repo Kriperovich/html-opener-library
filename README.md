@@ -37,3 +37,4 @@ __*"interval=30" this is the part that is responsible for the periodicity of ope
 
 
 THIS LIBRARY DONT WORK IN PYDROID
+(Python ide fro andoid)
