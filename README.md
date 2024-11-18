@@ -19,6 +19,8 @@ from html_opener_library import open_html_periodically
 # Find html and interval for opening html file:
 
 open_html_periodically("sample.html", interval=30)
+
+
 *"sample.html" this is name your html file*
 
 
