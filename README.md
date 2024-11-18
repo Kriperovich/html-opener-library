@@ -1,4 +1,4 @@
-# html-opener-library
+# __html-opener-library__
 Documentation
 This library have just 1 function
 
