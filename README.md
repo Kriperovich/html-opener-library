@@ -33,4 +33,7 @@ __*"interval=30" this is the part that is responsible for the periodicity of ope
 
 
 #note
+
+
+
 THIS LIBRARY DONT WORK IN PYDROID
