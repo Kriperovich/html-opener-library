@@ -43,4 +43,4 @@ THIS LIBRARY DONT WORK IN PYDROID
 
 # Pypi
 
-https://pypi.org/project/html-opener-library/
+Pypi [Click](https://pypi.org/project/html-opener-library/)
